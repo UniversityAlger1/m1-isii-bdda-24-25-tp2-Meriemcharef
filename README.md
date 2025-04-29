@@ -1,4 +1,4 @@
-# TP 2 : Database Management
+# TP 2 : Database Management 
 
 In this exercise, you will write SQL queries that create a database, tables, and answer SQL queries queries.
 
